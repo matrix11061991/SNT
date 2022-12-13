@@ -1,4 +1,4 @@
-# Sciences numérique et technologique
+# Sciences numériques et technologique
 ## Thème 1: Internet
 
 ## Thème 2: Le Web
