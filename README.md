@@ -1,4 +1,6 @@
 # Sciences numériques et technologique
+
+## Thème 0: Notions transversales de programmation
 ## Thème 1: Internet
 
 ## Thème 2: Le Web
@@ -12,5 +14,4 @@
 ## Thème 6: Informatique embarquée et objets connectés
 
 ## Thème 7: Réseaux sociaux
-
 
