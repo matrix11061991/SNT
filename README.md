@@ -23,6 +23,23 @@ resultat = age + 5
 print("Dans 5 ans, " + nom + " aura " + resultat + " ans.")
 
 ```
+### Règles de nommage des variables en python
+1. Les noms de variables ne doivent pas commencer par un nombre.
+
+2. Les noms de variables ne doivent pas contenir d'espaces. Si vous avez besoin de séparer plusieurs mots dans le nom de votre variable, vous pouvez utiliser un tiret bas (_) à la place. Par exemple, nom_de_variable.
+
+3. Les noms de variables ne doivent pas être des mots-clés de Python. Par exemple, vous ne pouvez pas utiliser for ou while comme nom de variable.
+
+4. Les noms de variables doivent être courts et significatifs. Ils doivent refléter le contenu de la variable de manière claire et précise.
+
+Il est également recommandé de respecter la convention de nommage en camelCase lors de la déclaration des variables en Python. Cela signifie que les mots dans le nom de la variable sont séparés par des majuscules, sauf le premier qui est en minuscule. Par exemple, nomDeVariable.
+
+En suivant ces règles, vous pouvez éviter les erreurs courantes et écrire du code plus clair et facile à comprendre pour vous et pour d'autres développeurs.
+
+
+
+
+
 ## Thème 1: Internet
 
 ## Thème 2: Le Web
