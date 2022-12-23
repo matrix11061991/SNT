@@ -53,7 +53,11 @@ Le **SNT (Sciences et Techniques de l'Ingénieur)** est une matière enseignée 
 ## Thème 4: La Photographie numérique
 
 ## Thème 5: Localisation, cartographie et mobilité
+La localisation consiste à déterminer la position géographique d'un objet ou d'une personne à un moment donné. Cela peut être fait de différentes manières, telles que l'utilisation de systèmes de positionnement par satellite (GPS), de réseaux de communication mobile ou de balises de localisation.
 
+La cartographie est l'étude et la production de cartes, qui sont des représentations graphiques de la surface de la Terre ou de parties de celle-ci. Les cartes peuvent être utilisées pour visualiser et comprendre les caractéristiques physiques et humaines d'un territoire, ainsi que pour planifier et suivre des déplacements.
+
+La mobilité concerne le déplacement des personnes et des biens d'un lieu à un autre. Elle est un enjeu important de notre société, et peut être influencée par de nombreux facteurs, tels que la technologie, l'urbanisation et les politiques de transport. Dans le cadre de la matière SNT, les élèves peuvent être amenés à étudier les différents moyens de transport et à réfléchir aux solutions pour améliorer la mobilité dans les villes.
 ## Thème 6: Informatique embarquée et objets connectés
 
 ## Thème 7: Réseaux sociaux
