@@ -45,7 +45,11 @@ En suivant ces règles, vous pouvez éviter les erreurs courantes et écrire du 
 ## Thème 2: Le Web
 
 ## Thème 3: Les données structurées et leurs traitements
+  Les données structurées sont des données qui sont organisées de manière logique et peuvent être facilement analysées et manipulées par un ordinateur. Elles sont souvent stockées dans des bases de données ou des fichiers structurés, tels que des feuilles de calcul ou des fichiers CSV (Comma Separated Values).
 
+Le traitement de données structurées consiste à utiliser des outils informatiques pour analyser et manipuler ces données de manière à en extraire de l'information utile. Cela peut inclure des opérations telles que le tri, le filtrage, l'agrégation et l'analyse statistique.
+
+Le SNT (Sciences et Techniques de l'Ingénieur) est une matière enseignée en classe de seconde dans les lycées français. Elle vise à donner aux élèves les connaissances et les compétences nécessaires pour comprendre le monde de l'ingénierie et de la technologie, ainsi que les principes de base de l'informatique. Dans le cadre de cette matière, les élèves peuvent être amenés à travailler sur des projets de traitement de données structurées, en utilisant des outils tels que des feuilles de calcul ou des logiciels de base de données
 ## Thème 4: La Photographie numérique
 
 ## Thème 5: Localisation, cartographie et mobilité
