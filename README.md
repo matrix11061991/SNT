@@ -43,6 +43,8 @@ En suivant ces règles, vous pouvez éviter les erreurs courantes et écrire du 
 ## Thème 1: Internet
 
 ## Thème 2: Le Web
+Le web est un outil de communication et de diffusion de l'information très puissant et est devenue une partie essentielle de la vie quotidienne de nombreuses personnes dans le monde. En SNT, les étudiants apprendront à utiliser le web de manière efficace et à comprendre les enjeux et les risques associés à sa utilisation. Ils apprendront également à créer et à publier des contenus en ligne, ainsi qu'à protéger leur vie privée et leur sécurité en ligne.
+
 
 ## Thème 3: Les données structurées et leurs traitements
   Les données structurées sont des données qui sont organisées de manière logique et peuvent être facilement analysées et manipulées par un ordinateur. Elles sont souvent stockées dans des bases de données ou des fichiers structurés, tels que des feuilles de calcul ou des fichiers CSV (Comma Separated Values).
