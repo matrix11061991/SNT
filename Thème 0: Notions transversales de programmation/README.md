@@ -8,14 +8,14 @@
 
 **Exercice 1**
 
-Déclarez une variable age et affectez-lui la valeur de votre âge. Affichez la valeur de la variable à l'aide de la fonction print().
+Déclarez une variable _age_ et affectez-lui la valeur de votre âge. Affichez la valeur de la variable à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
 age = 20
 print(age)
 ```
-Déclarez une variable prenom et affectez-lui votre prénom. Affichez la valeur de la variable à l'aide de la fonction print().
+Déclarez une variable _prenom_ et affectez-lui votre prénom. Affichez la valeur de la variable à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
@@ -24,7 +24,7 @@ print(prenom)
 ```
 Exercice 3
 
-Déclarez deux variables a et b et affectez-leur les valeurs 10 et 20 respectivement. Calculez et affichez leur somme à l'aide de la fonction print().
+Déclarez deux variables _a_ et _b_ et affectez-leur les valeurs 10 et 20 respectivement. Calculez et affichez leur somme à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
@@ -35,7 +35,7 @@ print(somme)
 ```
 Exercice 4
 
-Déclarez deux variables x et y et affectez-leur les valeurs 3 et 4 respectivement. Calculez et affichez leur produit à l'aide de la fonction print().
+Déclarez deux variables _x_ et _y_ et affectez-leur les valeurs 3 et 4 respectivement. Calculez et affichez leur produit à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
@@ -46,7 +46,7 @@ print(produit)
 ```
 **Exercice 5**
 
-Déclarez une variable phrase et affectez-lui la valeur "Bonjour tout le monde !". Affichez la valeur de la variable à l'aide de la fonction print().
+Déclarez une variable _phrase_ et affectez-lui la valeur "Bonjour tout le monde !". Affichez la valeur de la variable à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
@@ -55,7 +55,7 @@ print(phrase)
 ```
 **Exercice 6**
 
-Déclarez une variable flag et affectez-lui la valeur True. Affichez la valeur de la variable à l'aide de la fonction print().
+Déclarez une variable _flag_ et affectez-lui la valeur _True_. Affichez la valeur de la variable à l'aide de la fonction _print()_.
 
 **Exemple de code**
 ```python
