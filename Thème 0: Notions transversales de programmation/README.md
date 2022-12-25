@@ -1,5 +1,5 @@
 # Activité 1: Manipuler des variables en Python
-## Objectifs de l'activité :
+## <font color="red">Objectifs de l'activité :</font>
 
 * Comprendre ce qu'est une variable en programmation
 * Savoir déclarer une variable en Python
@@ -22,7 +22,7 @@ Déclarez une variable _prenom_ et affectez-lui votre prénom. Affichez la valeu
 prenom = "Marie"
 print(prenom)
 ```
-Exercice 3
+**Exercice 3**
 
 Déclarez deux variables _a_ et _b_ et affectez-leur les valeurs 10 et 20 respectivement. Calculez et affichez leur somme à l'aide de la fonction _print()_.
 
@@ -33,7 +33,7 @@ b = 20
 somme = a + b
 print(somme)
 ```
-Exercice 4
+**Exercice 4**
 
 Déclarez deux variables _x_ et _y_ et affectez-leur les valeurs 3 et 4 respectivement. Calculez et affichez leur produit à l'aide de la fonction _print()_.
 
