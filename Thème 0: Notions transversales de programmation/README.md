@@ -1,4 +1,4 @@
-# Activité : Manipuler des variables en Python
+# Activité 1: Manipuler des variables en Python
 ## Objectifs de l'activité :
 
 * Comprendre ce qu'est une variable en programmation
