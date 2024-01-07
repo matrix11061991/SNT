@@ -1,3 +1,11 @@
+```sh
+   _____ _   _ _______ 
+  / ____| \ | |__   __|
+ | (___ |  \| |  | |   
+  \___ \| . ` |  | |   
+  ____) | |\  |  | |   
+ |_____/|_| \_|  |_|   
+```                       
 # Sciences numériques et technologique
 
 ## Thème 0: Notions transversales de programmation
